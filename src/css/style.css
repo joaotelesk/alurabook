@@ -3,7 +3,7 @@
 @import url(src/css/carrossel.css);
 @import url(...src/css/topicos.css);
 @import url(src/css/contato.css);
-@import url(src/css/rodape.css);
+@import url(/css/rodape.css);
 
 :root {
     --preto: #000;
