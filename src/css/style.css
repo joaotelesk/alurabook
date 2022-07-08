@@ -1,9 +1,9 @@
-@import url(./css/header.css);
-@import url(..src/css/banner.css);
-@import url(src/css/carrossel.css);
-@import url(...src/css/topicos.css);
+@import url(./header.css);
+@import url(./banner.css);
+@import url(./carrossel.css);
+@import url(./topicos.css);
 @import url(./contato.css);
-@import url(/rodape.css);
+@import url(./rodape.css);
 
 :root {
     --preto: #000;
