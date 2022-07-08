@@ -27,7 +27,7 @@
     text-align: center;
 }
 .contato__email::placeholder {
-    background: url(./src/img/email.svg) no-repeat;
+    background: url(../img/email.svg) no-repeat;
     font-family: var(--fonte-principal);
     color: var(--azul);
     padding-left: 2.5em;
