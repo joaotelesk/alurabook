@@ -31,7 +31,7 @@
     font-weight: 400;
     text-align: center;
     color: var(--branco);
-    background: url(./src/img/pesquisar.svg) no-repeat 1em;
+    background: url(/img/pesquisar.svg) no-repeat 1em;
     
 }
 
