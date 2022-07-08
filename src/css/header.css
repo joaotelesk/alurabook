@@ -5,7 +5,7 @@
     display: inline-block;
 }
 .container__btn:checked~ .container__rotulo > .cabecalho__menu-hamburguer {
-    background-image: url(/src/img/Menu_Aberto.svg);
+    background-image: url(../img/Menu_Aberto.svg);
 
 }
 .container__btn:checked~ .container__rotulo {
